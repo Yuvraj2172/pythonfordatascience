@@ -1,2 +1,4 @@
 resources
 *.xls;xlsx;csv
+
+.venv
